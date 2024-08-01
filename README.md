@@ -1,1 +1,4 @@
-# agro
+# agro 
+Agricultura de precisão
+A idéia de agricultura de precisão surgiu antes mesmo do período da Revolução Industrial como uma técnica de tratar a cultura em busca do seu melhor rendimento, levando em conta os aspectos de localização, fertilidade do solo, entre outros fatores.
+Apesar da importância do Brasil no cenário agrícola, a agricultura de precisão brasileira ainda está em uma fase muito incipiente. Sua ampliação favorecerá o negócio agrícola nacional através da otimização dos investimentos de recursos na produçãoApesar da importância do Brasil no cenário agrícola, a agricultura de precisão brasileira ainda está em uma fase muito incipiente. 
